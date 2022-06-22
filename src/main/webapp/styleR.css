@@ -1,0 +1,16 @@
+@charset "UTF-8";
+body{
+	width: 90%;
+	margin-left: 8%;
+}
+.formInput{
+	display: inline;
+	width: 30%;
+	margin-bottom: 20px;
+	font-size: 1.5em;
+}
+.button1{
+	font-size: 1.5em;
+	display: block;
+	margin: auto;
+}
